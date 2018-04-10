@@ -1,0 +1,2 @@
+module UserTicketHelper
+end
